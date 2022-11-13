@@ -11,7 +11,7 @@ from fat16_reader import Reader
 f16r = Reader('PATH/TO/FAT16/IMG')
 ```
 
-Now you can navigate to you img like in a normal shell
+Now you can navigate into your img like in a normal shell
 
 ## Commands
 
